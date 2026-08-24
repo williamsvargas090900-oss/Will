@@ -1,6 +1,6 @@
 # E-BOOST
 Precio: PEN 139
-Stock: Ilimitado / [n uds]
+Stock: Ilimitado
 Categorías: E BOOST, POTENCIADOR, SEXO, VIGORIZANTE
 Disponibilidad: Disponible
 
