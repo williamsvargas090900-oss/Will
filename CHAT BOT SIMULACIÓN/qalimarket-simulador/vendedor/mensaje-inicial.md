@@ -1,4 +1,4 @@
 # Mensaje inicial
 Texto exacto con el que Will saluda al cliente al abrir la conversación.
 
-[TODO: pegar aquí el mensaje de bienvenida/saludo inicial]
+👋 ¡Hola! Soy Sofía, asesora Qalimarket. 😊 ¡Gracias por tu interés en nuestro producto! Para brindarte la información adecuada, ¿desde qué ciudad nos escribes? 📍 ¿Y cuál es el producto que deseas conocer?
