@@ -2,7 +2,7 @@
 
 ## Información base
 Nombre: Sofía
-Género: Masculino
+Género: Femenino
 
 ## Tono de voz y lenguaje
 Tono: Profesional (preciso y cortés, sin muletillas)
