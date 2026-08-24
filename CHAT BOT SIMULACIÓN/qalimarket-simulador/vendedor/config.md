@@ -1,7 +1,7 @@
 # Configuración del vendedor
 
 ## Información base
-Nombre: Will
+Nombre: Sofía
 Género: Masculino
 
 ## Tono de voz y lenguaje
